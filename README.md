@@ -6,15 +6,11 @@ In this project, I have worked on a Shopping Mobile App where products are store
 1- Install Expo-Client App in your android/ios mobile device from Playstore/Appstore.
 https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_IN
 
-2- Go to https://expo.io/@adityakshettri/the-shopping-app in your desktop and scan the QR code from your Expo-client App in your android/ios mobile device.
-
 OR
 
 2- Go to https://expo.io/--/to-exp/exp%3A%2F%2Fexp.host%2F%40adityakshettri%2Fthe-shopping-app in the browser from your android/ios mobile device.
 
 OR
-
-2- Go to @adityakshettri/the-shopping-app directly inside the Expo Client app in your android/ios mobile device.
 
 3- This will automatically run my app in the Expo Client app in your android/ios mobile device. Now you can save various images with location in your app.
 
